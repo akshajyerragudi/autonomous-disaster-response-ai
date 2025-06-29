@@ -9,7 +9,7 @@ Build a low-cost robot that can:
 - Run everything on-device using edge computing (no internet)
 
 ## Why I'm Doing This
-I’m interested in robotics and computer engineering, and I wanted to try applying AI to something that could actually help people in real-world situations — like earthquakes, wildfires, etc.
+I’m interested in robotics and computer engineering, and I wanted to try applying AI to something that could actually help people in real-world situations, like earthquakes, wildfires, and other situations.
 
 I’m still learning a lot, so I’m reaching out to professors to try and get guidance or contribute to research in this space.
 
